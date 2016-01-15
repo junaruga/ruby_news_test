@@ -1,0 +1,11 @@
+# Mac
+.DS_Store
+._*
+# vi
+*.swp
+# Emacs or GNU indent
+*~
+# Hidemaru
+*.BAK
+# Rbenv
+.ruby-version
